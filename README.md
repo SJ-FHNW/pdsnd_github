@@ -1,15 +1,15 @@
-### Date created
-Include the date you created this project and README file.
+#Date created
+_18th May 2020 **_
 
 ### Project Title
-Replace the Project Title
+**GitHub Project - PDSND**
 
-### Description
-Describe what your project is about and what it does
+#Description
+Practicing git commands and GitHub usage
 
-### Files used
-Include the files used
+#Files used
+* bikeshare.py
+* data files (for Washington, New York City, Chicago)
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+#Credits
+nan
