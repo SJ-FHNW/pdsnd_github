@@ -1,14 +1,11 @@
-#Date created:
-_18th May 2020_
+Date created:_18th May 2020_
 
 **GitHub Project - PDSND**
 
-#Description
-Practicing git commands and GitHub usage
+Description: Practicing git commands and GitHub usage
 
-#Files used
+Files used:
 * bikeshare.py
 * data files (for Washington, New York City, Chicago)
 
-#Credits
-nan
+Credits: nan
