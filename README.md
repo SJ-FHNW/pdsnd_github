@@ -1,7 +1,6 @@
-#Date created
-_18th May 2020 **_
+#Date created:
+_18th May 2020_
 
-### Project Title
 **GitHub Project - PDSND**
 
 #Description
