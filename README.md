@@ -8,4 +8,4 @@ Files used:
 * bikeshare.py
 * data files (for Washington, New York City, Chicago)
 
-Credits: nan
+Credits: None
